@@ -1,4 +1,4 @@
-package creational.abstractFactory.cokeAndPepsi.abstractFactory;
+package creational.abstractFactory.cokeAndPepsiExample.abstractFactory;
 
 public interface IFactory
 {
